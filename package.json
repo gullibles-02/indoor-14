@@ -1,10 +1,16 @@
 {
-  "name": "3fbYBLgWIqpAySRgyoNH0FAYHJcQp2JOhdCOmsim6cp82lEHVe",
+  "name": "หวย one สรุปว่าอะไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.19",
   "description": "หวย one อิทัง ก่อน หวย one Huay หวยออนไลน์ อันดับหนึ่ง เม มาตาปิตูนัง โหตุ สุขิตา โหนตุ มาตา ปิตะโรขอส่วนบุญนี้จงสำเร็จ แก่มารดาบิดาของข้าพเจ้า ขอให้มารดาบ",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["หวย ONE","หวย","ONE","หวย Huay","ONE Huay"],
+  "keywords": [
+    "หวย ONE",
+    "หวย",
+    "ONE",
+    "หวย Huay",
+    "ONE Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
