@@ -1,10 +1,20 @@
 {
-  "name": "MzjCQu4FVfwyHl94LsjjRiCNGcOT6flzMnyXWk8nH9rJE7Mv7u",
+  "name": "เว็บหวย จ่าย บาทละ 98 ที่ไหน - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.42",
   "description": "เว็บหวย จ่าย บาทละ 98 เมื่อคุณได้กำไรจากหวยหุ้นก็คงอยากจะถอนกันใช่ไหม แต่ว่า เว็บหวย จ่าย บาทละ 98 Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด เว็บหวย จ่าย บาทละ",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["เว็บหวย จ่าย บาทละ 98","เว็บหวย","จ่าย","บาทละ","98","เว็บหวย Huaysod","จ่าย Huaysod","บาทละ Huaysod","98 Huaysod"],
+  "keywords": [
+    "เว็บหวย จ่าย บาทละ 98",
+    "เว็บหวย",
+    "จ่าย",
+    "บาทละ",
+    "98",
+    "เว็บหวย Huaysod",
+    "จ่าย Huaysod",
+    "บาทละ Huaysod",
+    "98 Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
