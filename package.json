@@ -1,10 +1,16 @@
 {
-  "name": "5ReHN9vQuzyTRvKosZSNLA2gY5glswhzKjAsKTGwjcXOuOaMyS",
+  "name": "โปรแกรมคํานวนหวย อภิโชค เล่นยังไง - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "โปรแกรมคํานวนหวย อภิโชค ดูบอลสด ถ้า โปรแกรมคํานวนหวย อภิโชค Huaydee หวยออนไลน์ อันดับหนึ่ง ไทย พบ กัมพูชา U23 ฟุตบอลชายซีเกมส์ สำหรับ ดูผ่านมือถือ แท็บเล็ต",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["โปรแกรมคํานวนหวย อภิโชค","โปรแกรมคํานวนหวย","อภิโชค","โปรแกรมคํานวนหวย Huaydee","อภิโชค Huaydee"],
+  "keywords": [
+    "โปรแกรมคํานวนหวย อภิโชค",
+    "โปรแกรมคํานวนหวย",
+    "อภิโชค",
+    "โปรแกรมคํานวนหวย Huaydee",
+    "อภิโชค Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
