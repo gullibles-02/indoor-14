@@ -1,10 +1,13 @@
 {
-  "name": "HT8GfqSfddemrV2K1IiYC2smP52oE3z5t6kqXRpXZ1SHwF5GYu",
+  "name": "ถ่ายทอดสดหวย สรุปว่าอะไร - เว็บใหม่ huay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.25",
   "description": "ถ่ายทอดสดหวย หวยหุ้นอังกฤษ เนื่องจาก ถ่ายทอดสดหวย Huay หวยออนไลน์ อันดับหนึ่ง หรือเรียกอีกชื่อหนึ่งว่า หวยอังกฤษ ใช้ผลการปิดตลาดของ ถ่ายทอดสดหวย ดัชนี Ftse",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["ถ่ายทอดสดหวย","ถ่ายทอดสดหวย Huay"],
+  "keywords": [
+    "ถ่ายทอดสดหวย",
+    "ถ่ายทอดสดหวย Huay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
