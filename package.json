@@ -1,10 +1,16 @@
 {
-  "name": "PMB5x8j4dEnkr5kLeuoIi7dkCQuDWlPtN2OzDVQ8smVe5zcrR0",
+  "name": "หวยยี่กี ปิงปอง ที่ไหน - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "หวยยี่กี ปิงปอง ฟัน ตั้งแต่ หวยยี่กี ปิงปอง Choke หวยออนไลน์ อันดับหนึ่ง 5ชอบที่เลข 3 ตัว (ตัดเล่นตามดวง) คือ 138 594รูด หวยยี่กี ปิงปอง วิ่ง     2 5ได้แนว",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["หวยยี่กี ปิงปอง","หวยยี่กี","ปิงปอง","หวยยี่กี Choke","ปิงปอง Choke"],
+  "keywords": [
+    "หวยยี่กี ปิงปอง",
+    "หวยยี่กี",
+    "ปิงปอง",
+    "หวยยี่กี Choke",
+    "ปิงปอง Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
