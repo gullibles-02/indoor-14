@@ -1,13 +1,10 @@
 {
-  "name": "ruay ดูที่ไหน - เว็บใหม่ masurebet 2023 ล่าสุด",
+  "name": "kgT9LylAsy30oLPG9Ij6JBFXdtOOczEgbhy3jZGDJ27QT9Js4s",
   "theme": "syntax",
   "version": "1.0.25",
-  "description": "RUAY สำหรับคอหวยท่านใดที่ต้องการแทงหวยยี่กี่ให้ถูกต้องแม่นยำมากยิ่งขึ้น แม้ RUAY Masurebet หวยออนไลน์ อันดับหนึ่ง ควรจำเป็นที่จะต้องรู้สูตรการแทงอย่างถูกต้",
+  "description": "ถ่ายทอดสดหวย หวยหุ้นอังกฤษ เนื่องจาก ถ่ายทอดสดหวย Huay หวยออนไลน์ อันดับหนึ่ง หรือเรียกอีกชื่อหนึ่งว่า หวยอังกฤษ ใช้ผลการปิดตลาดของ ถ่ายทอดสดหวย ดัชนี Ftse",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": [
-    "RUAY",
-    "RUAY Masurebet"
-  ],
+  "keywords": ["ถ่ายทอดสดหวย","ถ่ายทอดสดหวย Huay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
