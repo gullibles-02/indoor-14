@@ -1,10 +1,13 @@
 {
-  "name": "T8CcSdV9fsuIVlQ6FSxz4dCSfQ7TGzOI2XUOFq35L3MTlq47PM",
+  "name": "mhandee สมัครยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.6",
   "description": "Mhandee ขอบคุณข้อมูลจาก ข่าวสด Mhandee ถึง Mhandee Ruay รวย หวยออนไลน์ มีหวยทุกชนิด",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["MHANDEE","MHANDEE Ruay"],
+  "keywords": [
+    "MHANDEE",
+    "MHANDEE Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
