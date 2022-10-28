@@ -1,22 +1,10 @@
 {
-  "name": "เล่นหวยหุ้น ให้ได้ กํา ไร pantip เล่นยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
+  "name": "R4kkAvJDJgOVCTairXJaRVxQHX0w8vdl4g5uAe4SlOiu9RIRQy",
   "theme": "syntax",
   "version": "1.0.81",
-  "description": "เล่นหวยหุ้น ให้ได้ กํา ไร pantip ชุดเด่น ของ เล่นหวยหุ้น ให้ได้ กํา ไร pantip ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง 5 เล่นหวยหุ้น ให้ได้ กํา ไร pantip จับเข",
+  "description": "สถิติหวย ผลการออกรางวัล เท่ากับ สถิติหวย 999Lucky ลัคกี้ หวยออนไลน์ มีหวยทุกชนิด หวยฮานอย สถิติหวย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศษฮานอย V",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": [
-    "เล่นหวยหุ้น ให้ได้ กํา ไร PANTIP",
-    "เล่นหวยหุ้น",
-    "ให้ได้",
-    "กํา",
-    "ไร",
-    "PANTIP",
-    "เล่นหวยหุ้น Lotto",
-    "ให้ได้ Lotto",
-    "กํา Lotto",
-    "ไร Lotto",
-    "PANTIP Lotto"
-  ],
+  "keywords": ["สถิติหวย","สถิติหวย 999Lucky"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
