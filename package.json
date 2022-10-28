@@ -1,10 +1,22 @@
 {
-  "name": "IXrfb3YACVnn0D6riv2GZHHyJIfi1NrdWTxGvjbzPlSKaEqC8i",
+  "name": "เล่นหวยหุ้น ให้ได้ กํา ไร pantip เล่นยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.80",
   "description": "เล่นหวยหุ้น ให้ได้ กํา ไร pantip ชุดเด่น ของ เล่นหวยหุ้น ให้ได้ กํา ไร pantip ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง 5 เล่นหวยหุ้น ให้ได้ กํา ไร pantip จับเข",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["เล่นหวยหุ้น ให้ได้ กํา ไร PANTIP","เล่นหวยหุ้น","ให้ได้","กํา","ไร","PANTIP","เล่นหวยหุ้น Lotto","ให้ได้ Lotto","กํา Lotto","ไร Lotto","PANTIP Lotto"],
+  "keywords": [
+    "เล่นหวยหุ้น ให้ได้ กํา ไร PANTIP",
+    "เล่นหวยหุ้น",
+    "ให้ได้",
+    "กํา",
+    "ไร",
+    "PANTIP",
+    "เล่นหวยหุ้น Lotto",
+    "ให้ได้ Lotto",
+    "กํา Lotto",
+    "ไร Lotto",
+    "PANTIP Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
