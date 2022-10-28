@@ -1,10 +1,13 @@
 {
-  "name": "IKFMCYF1xVaOw8kRKqcMpyEBbNmscFSyM7HSmvPqVomms2QmEv",
+  "name": "หวยยี่กีวันนี้ ได้อย่างไร - เว็บใหม่ 12bet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "หวยยี่กีวันนี้ ไม่จำกัดครับ ก่อน หวยยี่กีวันนี้ ที่ 12Bet เว็บพนัน อันดับหนึ่ง เริ่มต้นที่เพียงแค่ 1 บาทก็สามารถฝาก-ถอน ได้",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["หวยยี่กีวันนี้","หวยยี่กีวันนี้ 12Bet"],
+  "keywords": [
+    "หวยยี่กีวันนี้",
+    "หวยยี่กีวันนี้ 12Bet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
