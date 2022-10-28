@@ -1,10 +1,16 @@
 {
-  "name": "gAt0GeDLdkEqdtxz6zBoAgKPXFG6oGnsUN9atOxqpeJDB8YRAp",
+  "name": "ติดหวยยี่กี pantip ที่ไหน - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "ติดหวยยี่กี pantip เด่น จนถึง ติดหวยยี่กี pantip Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด 3-7 ได้ชุดแนวทางหวยรัฐบาลดังนี้ชุดเลขท้าย 3 ตัว พร้อมหมุนไปกลับได้แก",
   "repository": "https://github.com/gullibles-02/indoor-14",
-  "keywords": ["ติดหวยยี่กี PANTIP","ติดหวยยี่กี","PANTIP","ติดหวยยี่กี Huaysod","PANTIP Huaysod"],
+  "keywords": [
+    "ติดหวยยี่กี PANTIP",
+    "ติดหวยยี่กี",
+    "PANTIP",
+    "ติดหวยยี่กี Huaysod",
+    "PANTIP Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
